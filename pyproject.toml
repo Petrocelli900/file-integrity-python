@@ -1,0 +1,5 @@
+[project]
+name = "file-integrity-python"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Manifestos SHA-256 para comparar arquivos adicionados, removidos e alterados, com CLI e leitura em blocos."
